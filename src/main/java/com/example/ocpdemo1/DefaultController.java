@@ -14,6 +14,6 @@ public class DefaultController {
 
 	@RequestMapping
 	public String index() {
-		return "hello world";
+		return "This is demo ocp app v1";
 	}
 }
